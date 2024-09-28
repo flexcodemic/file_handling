@@ -1,0 +1,6 @@
+This is the first line of the file.
+The number 12345 is written here.
+Python file handling is fun!
+This is an appended line 1.
+Appending more data with the number 67890.
+File handling operations are quite useful.
